@@ -1,4 +1,4 @@
 limits-service:
   minimum: 99
   maximum: 1000
-msg: Hello from dev
+  msg: Hello from dev
