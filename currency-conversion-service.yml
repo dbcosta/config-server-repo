@@ -1,3 +1,3 @@
 currency:
   exchange:
-    url: http://currency-exchange/exchange/from/{from}/to/{to}
+    url: http://currency-exchange/currency-exchange/from/{from}/to/{to}
